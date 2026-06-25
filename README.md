@@ -1,1 +1,1 @@
-Here will be the READ.ME of the proyect
+Work In Progress: A stateful SOAR engine for Linux environments. Full architecture documentation and deployment instructions coming this week.
